@@ -1,3 +1,0 @@
-[submodule "userservice"]
-	path = userservice
-	url = https://github.com/artkoro/userservice.git
